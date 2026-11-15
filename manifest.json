@@ -1,0 +1,17 @@
+{
+  "name": "하늘·날씨 영어 놀이",
+  "short_name": "하늘·날씨\",
+  "description": "하늘·날씨(Sky & Weather)를 영어로 듣고, 보고, 골라 보는 유아 영어 단어 놀이\",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#eaf6ff",
+  "theme_color": "#4d9fff",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
